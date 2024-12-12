@@ -1,4 +1,11 @@
-
-var sortBy = function(arr, fn) {
+// /**
+//  * @param {Array} arr
+//  * @param {Function} fn
+//  * @return {Array}
+//  */
+// var sortBy = function(arr, fn) {
+    
+// };
+function sortBy(arr, fn) {
     return arr.slice().sort((a, b) => fn(a) - fn(b));
-};
+}
