@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/muhammeddilshsad/LeetCode/tree/master/0069-sqrtx) |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/muhammeddilshsad/LeetCode/tree/master/2383-add-two-integers) |
