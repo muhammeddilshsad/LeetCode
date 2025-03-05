@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammeddilshsad/LeetCode/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammeddilshsad/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammeddilshsad/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammeddilshsad/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
