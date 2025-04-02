@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammeddilshsad/LeetCode/tree/master/0001-two-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammeddilshsad/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/muhammeddilshsad/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/muhammeddilshsad/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/muhammeddilshsad/LeetCode/tree/master/0069-sqrtx) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammeddilshsad/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/muhammeddilshsad/LeetCode/tree/master/3311-ant-on-the-boundary) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammeddilshsad/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
