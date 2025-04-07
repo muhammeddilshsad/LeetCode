@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/muhammeddilshsad/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/muhammeddilshsad/LeetCode/tree/master/0412-fizz-buzz) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammeddilshsad/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Number Theory
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muhammeddilshsad/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/muhammeddilshsad/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
