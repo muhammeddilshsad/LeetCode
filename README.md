@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammeddilshsad/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/muhammeddilshsad/LeetCode/tree/master/0412-fizz-buzz) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammeddilshsad/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2128-reverse-prefix-of-word](https://github.com/muhammeddilshsad/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Number Theory
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/muhammeddilshsad/LeetCode/tree/master/0125-valid-palindrome) |
+| [2128-reverse-prefix-of-word](https://github.com/muhammeddilshsad/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muhammeddilshsad/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2128-reverse-prefix-of-word](https://github.com/muhammeddilshsad/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
 | ------- |
