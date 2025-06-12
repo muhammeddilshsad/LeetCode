@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/muhammeddilshsad/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/muhammeddilshsad/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/muhammeddilshsad/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/muhammeddilshsad/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
