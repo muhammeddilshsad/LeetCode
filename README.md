@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhammeddilshsad/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammeddilshsad/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/muhammeddilshsad/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/muhammeddilshsad/LeetCode/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammeddilshsad/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammeddilshsad/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/muhammeddilshsad/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/muhammeddilshsad/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/muhammeddilshsad/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammeddilshsad/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/muhammeddilshsad/LeetCode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammeddilshsad/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
