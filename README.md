@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muhammeddilshsad/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/muhammeddilshsad/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammeddilshsad/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammeddilshsad/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammeddilshsad/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muhammeddilshsad/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammeddilshsad/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/muhammeddilshsad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/muhammeddilshsad/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammeddilshsad/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/muhammeddilshsad/LeetCode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammeddilshsad/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammeddilshsad/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/muhammeddilshsad/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammeddilshsad/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muhammeddilshsad/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -139,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/muhammeddilshsad/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/muhammeddilshsad/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
