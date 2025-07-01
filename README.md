@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/muhammeddilshsad/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/muhammeddilshsad/LeetCode/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammeddilshsad/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammeddilshsad/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/muhammeddilshsad/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muhammeddilshsad/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/muhammeddilshsad/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/muhammeddilshsad/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/muhammeddilshsad/LeetCode/tree/master/0283-move-zeroes) |
 | [2128-reverse-prefix-of-word](https://github.com/muhammeddilshsad/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
