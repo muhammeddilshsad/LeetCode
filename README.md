@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/muhammeddilshsad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/muhammeddilshsad/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammeddilshsad/LeetCode/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/muhammeddilshsad/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/muhammeddilshsad/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/muhammeddilshsad/LeetCode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammeddilshsad/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/muhammeddilshsad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/muhammeddilshsad/LeetCode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/muhammeddilshsad/LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/muhammeddilshsad/LeetCode/tree/master/0412-fizz-buzz) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammeddilshsad/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/muhammeddilshsad/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muhammeddilshsad/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/muhammeddilshsad/LeetCode/tree/master/0224-basic-calculator) |
 | [2128-reverse-prefix-of-word](https://github.com/muhammeddilshsad/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/muhammeddilshsad/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/muhammeddilshsad/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/muhammeddilshsad/LeetCode/tree/master/0224-basic-calculator) |
 ## Sorting
 |  |
 | ------- |
